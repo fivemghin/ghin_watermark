@@ -1,5 +1,6 @@
 # GHIN_WATERMARK 
-EN : 
+# EN : 
 WaterMark editing in html/ui.html
-PL :
+
+# PL :
 WaterMark edytuj w html/ui.html
